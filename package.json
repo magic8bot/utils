@@ -1,6 +1,6 @@
 {
   "name": "@magic8bot/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cryptocurrency trading bot",
   "bugs": "https://github.com/magic8bot/utils/issues",
   "license": "MIT",
